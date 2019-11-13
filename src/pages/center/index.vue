@@ -3,7 +3,7 @@
     <!-- 个人资料 -->
     <view class="profile">
       <view class="meta">
-        <image class="avatar" src="http://ugo.botue.com/uploads/monkey.png"></image>
+        <image class="avatar" src="http://static.botue.com/ugo/uploads/monkey.png"></image>
         <text class="nickname">孙悟空</text>
       </view>
     </view>

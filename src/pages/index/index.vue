@@ -5,100 +5,100 @@
     <swiper class="banner" indicator-dots indicator-color="rgba(255, 255, 255, 0.6)" indicator-active-color="#fff">
       <swiper-item>
         <navigator url="/pages/goods/index">
-          <image src="http://ugo.botue.com/uploads/banner1.png"></image>
+          <image src="http://static.botue.com/ugo/uploads/banner1.png"></image>
         </navigator>
       </swiper-item>
       <swiper-item>
         <navigator url="/pages/goods/index">
-          <image src="http://ugo.botue.com/uploads/banner2.png"></image>
+          <image src="http://static.botue.com/ugo/uploads/banner2.png"></image>
         </navigator>
       </swiper-item>
       <swiper-item>
         <navigator url="/pages/goods/index">
-          <image src="http://ugo.botue.com/uploads/banner3.png"></image>
+          <image src="http://static.botue.com/ugo/uploads/banner3.png"></image>
         </navigator>
       </swiper-item>
     </swiper>
     <!-- 导航条 -->
     <view class="navs">
       <navigator open-type="switchTab" url="/pages/category/index">
-        <image src="http://ugo.botue.com/uploads/icon_index_nav_4@2x.png"></image>
+        <image src="http://static.botue.com/ugo/uploads/icon_index_nav_4@2x.png"></image>
       </navigator>
       <navigator url="/pages/list/index">
-        <image src="http://ugo.botue.com/uploads/icon_index_nav_3@2x.png"></image>
+        <image src="http://static.botue.com/ugo/uploads/icon_index_nav_3@2x.png"></image>
       </navigator>
       <navigator url="/pages/list/index">
-        <image src="http://ugo.botue.com/uploads/icon_index_nav_2@2x.png"></image>
+        <image src="http://static.botue.com/ugo/uploads/icon_index_nav_2@2x.png"></image>
       </navigator>
       <navigator url="/pages/list/index">
-        <image src="http://ugo.botue.com/uploads/icon_index_nav_1@2x.png"></image>
+        <image src="http://static.botue.com/ugo/uploads/icon_index_nav_1@2x.png"></image>
       </navigator>
     </view>
     <!-- 楼层 -->
     <view class="floors">
       <view class="floor">
         <view class="title">
-          <image src="http://ugo.botue.com/uploads/pic_floor01_title.png"></image>
+          <image src="http://static.botue.com/ugo/uploads/pic_floor01_title.png"></image>
         </view>
         <view class="items">
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor01_1@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor01_1@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor01_2@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor01_2@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor01_3@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor01_3@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor01_4@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor01_4@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor01_5@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor01_5@2x.png"></image>
           </navigator>
         </view>
       </view>
       <view class="floor">
         <view class="title">
-          <image src="http://ugo.botue.com/uploads/pic_floor02_title.png"/>
+          <image src="http://static.botue.com/ugo/uploads/pic_floor02_title.png"/>
         </view>
         <view class="items">
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor02_1@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor02_1@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor02_2@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor02_2@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor02_3@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor02_3@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor02_4@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor02_4@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor02_5@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor02_5@2x.png"></image>
           </navigator>
         </view>
       </view>
       <view class="floor">
         <view class="title">
-          <image src="http://ugo.botue.com/uploads/pic_floor03_title.png"></image>
+          <image src="http://static.botue.com/ugo/uploads/pic_floor03_title.png"></image>
         </view>
         <view class="items">
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor03_1@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor03_1@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor03_2@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor03_2@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor03_3@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor03_3@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor03_4@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor03_4@2x.png"></image>
           </navigator>
           <navigator url="/pages/list/index">
-            <image src="http://ugo.botue.com/uploads/pic_floor03_5@2x.png"></image>
+            <image src="http://static.botue.com/ugo/uploads/pic_floor03_5@2x.png"></image>
           </navigator>
         </view>
       </view>

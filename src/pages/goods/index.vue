@@ -3,19 +3,19 @@
     <!-- 商品图片 -->
     <swiper class="pics" indicator-dots indicator-color="rgba(255, 255, 255, 0.6)" indicator-active-color="#fff">
       <swiper-item>
-        <image src="http://ugo.botue.com/uploads/detail_1.jpg"></image>
+        <image src="http://static.botue.com/ugo/uploads/detail_1.jpg"></image>
       </swiper-item>
       <swiper-item>
-        <image src="http://ugo.botue.com/uploads/detail_2.jpg"></image>
+        <image src="http://static.botue.com/ugo/uploads/detail_2.jpg"></image>
       </swiper-item>
       <swiper-item>
-        <image src="http://ugo.botue.com/uploads/detail_3.jpg"></image>
+        <image src="http://static.botue.com/ugo/uploads/detail_3.jpg"></image>
       </swiper-item>
       <swiper-item>
-        <image src="http://ugo.botue.com/uploads/detail_4.jpg"></image>
+        <image src="http://static.botue.com/ugo/uploads/detail_4.jpg"></image>
       </swiper-item>
       <swiper-item>
-        <image src="http://ugo.botue.com/uploads/detail_5.jpg"></image>
+        <image src="http://static.botue.com/ugo/uploads/detail_5.jpg"></image>
       </swiper-item>
     </swiper>
     <!-- 基本信息 -->

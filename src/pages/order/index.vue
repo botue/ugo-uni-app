@@ -11,7 +11,7 @@
     <scroll-view class="orders" scroll-y>
       <view class="item">
         <!-- 商品图片 -->
-        <image class="pic" src="http://ugo.botue.com/uploads/goods_1.jpg"></image>
+        <image class="pic" src="http://static.botue.com/ugo/uploads/goods_1.jpg"></image>
         <!-- 商品信息 -->
         <view class="meta">
           <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>
@@ -32,7 +32,7 @@
       </view>
       <view class="item">
         <!-- 商品图片 -->
-        <image class="pic" src="http://ugo.botue.com/uploads/goods_1.jpg"></image>
+        <image class="pic" src="http://static.botue.com/ugo/uploads/goods_1.jpg"></image>
         <!-- 商品信息 -->
         <view class="meta">
           <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>
@@ -53,7 +53,7 @@
       </view>
       <view class="item">
         <!-- 商品图片 -->
-        <image class="pic" src="http://ugo.botue.com/uploads/goods_1.jpg"></image>
+        <image class="pic" src="http://static.botue.com/ugo/uploads/goods_1.jpg"></image>
         <!-- 商品信息 -->
         <view class="meta">
           <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>
@@ -74,7 +74,7 @@
       </view>
       <view class="item">
         <!-- 商品图片 -->
-        <image class="pic" src="http://ugo.botue.com/uploads/goods_1.jpg"></image>
+        <image class="pic" src="http://static.botue.com/ugo/uploads/goods_1.jpg"></image>
         <!-- 商品信息 -->
         <view class="meta">
           <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>

@@ -17,7 +17,7 @@
         <view class="shopname">优购生活馆</view>
         <view class="goods">
           <!-- 商品图片 -->
-          <image class="pic" src="http://ugo.botue.com/uploads/goods_1.jpg"></image>
+          <image class="pic" src="http://static.botue.com/ugo/uploads/goods_1.jpg"></image>
           <!-- 商品信息 -->
           <view class="meta">
             <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>
@@ -38,7 +38,7 @@
         </view>
         <view class="goods">
           <!-- 商品图片 -->
-          <image class="pic" src="http://ugo.botue.com/uploads/goods_2.jpg"></image>
+          <image class="pic" src="http://static.botue.com/ugo/uploads/goods_2.jpg"></image>
           <!-- 商品信息 -->
           <view class="meta">
             <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>
@@ -59,7 +59,7 @@
         </view>
         <view class="goods">
           <!-- 商品图片 -->
-          <image class="pic" src="http://ugo.botue.com/uploads/goods_5.jpg"></image>
+          <image class="pic" src="http://static.botue.com/ugo/uploads/goods_5.jpg"></image>
           <!-- 商品信息 -->
           <view class="meta">
             <view class="name">【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】</view>
@@ -108,7 +108,7 @@
     font-size: 27rpx;
     color: #333;
     background-color: #fff;
-    background-image: url(http://ugo.botue.com/images/cart_border%402x.png);
+    background-image: url(http://static.botue.com/ugo/images/cart_border%402x.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;

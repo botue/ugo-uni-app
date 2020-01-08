@@ -63,6 +63,8 @@
           </view>
         </view>
       </view>
+      <!-- 加载更多 -->
+      <view class="getMore">正在加载...</view>
     </scroll-view>
   </view>
 </template>

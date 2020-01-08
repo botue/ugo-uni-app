@@ -35,4 +35,13 @@
     font-size: 36rpx;
     color: #666;
   }
+
+  .getMore {
+    text-align: center;
+    line-height: 1;
+    padding: 20rpx;
+    font-size: 30rpx;
+    color: #666;
+    background-color: #fff;
+  }
 </style>

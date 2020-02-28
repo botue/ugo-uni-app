@@ -70,10 +70,12 @@
     .meta {
 
       .avatar {
+        display: block;
         width: 140rpx;
         height: 140rpx;
         border-radius: 50%;
         border: 2rpx solid #fff;
+        overflow: hidden;
       }
 
       .nickname {

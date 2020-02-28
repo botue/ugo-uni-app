@@ -130,13 +130,13 @@
     position: absolute;
     top: 97rpx;
     bottom: 0;
-    background-color: #fff;
   }
 
   .item {
     padding: 10rpx 20rpx 0;
     margin-top: 16rpx;
     background-color: #fff;
+    margin-bottom: 20rpx;
     
     &:last-child {
       margin-botton: 50rpx;
